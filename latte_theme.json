@@ -1,0 +1,37 @@
+{
+    "colors": {
+        "uni_bg": "#e6e9ef",
+        "bg": "#eff1f5",
+        "fg": "#4c4f69",
+        "accent": "#1e66f5",
+        "accent_hover": "#7287fd",
+        "border_light": "#bcc0cc",
+        "border_dark": "#acb0be",
+        "input_bg": "#eff1f5",
+        "input_bg_top": "#e6e9ef",
+        "selected_text": "#eff1f5",
+        "button_bg": "#ccd0da",
+        "button_bg_top": "#bcc0cc",
+        "button_hover_bg": "#d6dbf6",
+        "button_hover_bg_top": "#dde3fd",
+        "button_pressed_bg": "#acb0be",
+        "button_disabled_fg": "#9ca0b0",
+        "button_disabled_bg": "#e6e9ef",
+        "button_disabled_border": "#bcc0cc",
+        "tool_button_bg": "#eff1f5",
+        "tool_button_bg_top": "#e6e9ef",
+        "tool_button_hover_bg": "#d6dbf6",
+        "tool_button_pressed_bg": "#acb0be",
+        "progress_chunk": "#40a02b",
+        "progress_border": "#acb0be",
+        "btn_start_pressed": "#2d7a1f"
+    },
+    "fonts": {
+        "base": 15,
+        "small": 11,
+        "header": 24,
+        "tool": 14,
+        "family": "JetBrainsMono Nerd Font, JetBrains Mono, monospace",
+        "label": 15
+    }
+}
